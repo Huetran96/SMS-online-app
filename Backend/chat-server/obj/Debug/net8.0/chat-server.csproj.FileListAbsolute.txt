@@ -263,3 +263,4 @@ C:\Users\ASUS\Documents\ASP.NET\PROJECT-SEM3\Backend\chat-server\bin\Debug\net8.
 C:\Users\ASUS\Documents\ASP.NET\PROJECT-SEM3\Backend\chat-server\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\ASUS\Documents\ASP.NET\PROJECT-SEM3\Backend\chat-server\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ASUS\Documents\ASP.NET\PROJECT-SEM3\Backend\chat-server\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Documents\ASP.NET\PROJECT-SEM3\Backend\chat-server\obj\Debug\net8.0\chat-server.sourcelink.json

@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\asus\\documents\\asp.net\\project-sem3\\backend\\chat-server\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\asus\\documents\\asp.net\\project-sem3\\backend\\chat-server\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\asus\\documents\\asp.net\\project-sem3\\backend\\chat-server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\asus\\documents\\asp.net\\project-sem3\\backend\\chat-server\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\asus\\documents\\asp.net\\project-sem3\\backend\\chat-server\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\asus\\documents\\asp.net\\project-sem3\\backend\\chat-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\asus\\documents\\asp.net\\project-sem3\\backend\\chat-server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,16 +45,34 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\DTOs\\LoginDto.cs",
-              "RelativeDocumentMoniker": "chat-server\\DTOs\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\DTOs\\LoginDto.cs",
-              "RelativeToolTip": "chat-server\\DTOs\\LoginDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\DTOs\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "chat-server\\DTOs\\UpdateProfileDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\DTOs\\UpdateProfileDto.cs",
+              "RelativeToolTip": "chat-server\\DTOs\\UpdateProfileDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T06:24:31.117Z"
+              "WhenOpened": "2024-10-19T11:07:51.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\Models\\Profile.cs",
+              "RelativeDocumentMoniker": "chat-server\\Models\\Profile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\Models\\Profile.cs",
+              "RelativeToolTip": "chat-server\\Models\\Profile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:50:08.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +82,7 @@
               "RelativeDocumentMoniker": "chat-server\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\Controllers\\UserController.cs",
               "RelativeToolTip": "chat-server\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T04:33:34.735Z",
               "EditorCaption": ""
@@ -79,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "chat-server\\data\\AppDbContext.cs",
@@ -97,7 +119,7 @@
               "RelativeDocumentMoniker": "chat-server\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\Program.cs",
               "RelativeToolTip": "chat-server\\Program.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFQAAAAGAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEEAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T01:41:14.886Z"
             }

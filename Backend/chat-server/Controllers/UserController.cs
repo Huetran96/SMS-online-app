@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.JsonWebTokens;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
@@ -31,6 +32,8 @@ namespace chat_server.Controllers
             _roleManager = roleManager;
             _signInManager = signInManager;
             _config = config;
+
+            
         }
 
         [HttpPost]
@@ -147,6 +150,7 @@ namespace chat_server.Controllers
             return Ok(users);
         }
 
+        [Authorize]
         [HttpGet]
         [Route("my-profile")]
         public async Task<IActionResult> MyProfile()
@@ -156,9 +160,103 @@ namespace chat_server.Controllers
             return Ok(profile);
 
         }
-
-        private async Task<IActionResult> GenerateToken( User user)
+        [Authorize]
+        [HttpGet]
+        [Route("profile/{id}")]
+        public async Task<IActionResult> GetProfile([FromRoute] string id)
         {
+            var profile = await _context.Profiles.FirstOrDefaultAsync(p => p.UserId == id);
+            if (profile == null)
+            {
+                return BadRequest("Không tìm thấy");
+            }
+            return Ok(profile);
+
+        }
+
+        [Authorize]
+        [HttpPut]
+        [Route("profile/update")]
+        public async Task<IActionResult> UpdateProfile([FromBody] UpdateProfileDto request)
+        {
+            var userId = User.FindFirst(ClaimTypes.NameIdentifier).Value;
+            var profile = await _context.Profiles.FirstOrDefaultAsync(p => p.UserId == userId);
+            if (profile == null)
+            {
+                return BadRequest("không tìm thấy");
+            }
+            if(ModelState.IsValid)
+            {
+                profile.Bio = request.Bio;
+                profile.Dob = request.Dob;
+                profile.Gender = request.Gender;
+                profile.Address = request.Address;
+                profile.Hobby = request.Hobby;
+                profile.WorkStatus = request.WorkStatus;
+                profile.Sport = request.Sport;
+                profile.School = request.School;
+            }
+            await _context.SaveChangesAsync();
+            return Ok(profile);
+        }     
+        
+        [Authorize]
+        [HttpGet]
+        [Route("verified-token")]
+        public async Task<IActionResult> VerifiedToken()
+        {
+            string token ="";
+            
+            string authoriztion = Request.Headers.Authorization;
+            if(authoriztion.StartsWith("Bearer "))
+            {
+                token = authoriztion.Substring(7).Trim();
+            }
+            TokenReponseDto tokenReponseDto = new TokenReponseDto();
+
+            /*var tokenValidateParam = new TokenValidationParameters
+            {
+                ValidateIssuerSigningKey = true,
+                IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["JWT:SigningKey"]))
+            };
+            //check 1: AccessToken valid format
+            var tokenInVerification = handler.ValidateToken(token, tokenValidateParam, out var validatedToken);*/
+
+            var handler = new JwtSecurityTokenHandler();
+            if (!handler.CanReadToken(token))
+            {
+                tokenReponseDto.Message = "Invalid token. ";
+            }
+            var jwtToken = handler.ReadJwtToken(token);
+            tokenReponseDto.Token = token;
+            tokenReponseDto.UserId = jwtToken.Claims.FirstOrDefault(e => e.Type == ClaimTypes.NameIdentifier).Value;
+            tokenReponseDto.Role = jwtToken.Claims.FirstOrDefault(r => r.Type == ClaimTypes.Role).Value;
+            var expClaim = jwtToken.Claims.FirstOrDefault(e => e.Type == "exp");
+            if (expClaim == null)
+            {
+                tokenReponseDto.Message = "Co loi";
+            }
+            long exp = long.Parse(expClaim.Value);
+            DateTime expDate = DateTimeOffset.FromUnixTimeSeconds(exp).DateTime;
+            tokenReponseDto.exp = expDate;
+            if (expDate > DateTime.UtcNow)
+            {
+                tokenReponseDto.isValid = true;
+                tokenReponseDto.Message = "Valid token";
+                return Ok(tokenReponseDto);
+
+            }
+            tokenReponseDto.Message = "het han";
+
+
+            return Ok(tokenReponseDto);
+
+            
+        }
+
+        private async Task<IActionResult> GenerateToken(User user)
+        {
+
             var roles = await _userManager.GetRolesAsync(user);
             var claims = new List<Claim>
             {
@@ -174,7 +272,7 @@ namespace chat_server.Controllers
             var tokenObject = new JwtSecurityToken(
                 issuer: _config["JWT:ValidIssuer"],
                 audience: _config["JWT:ValidAudience"],
-                expires: DateTime.Now.AddDays(1),
+                expires: DateTime.Now.AddHours(24),
                 claims: claims,
                 signingCredentials: new SigningCredentials(signingKey, SecurityAlgorithms.HmacSha256)
                 );
@@ -183,5 +281,7 @@ namespace chat_server.Controllers
             return Ok(token);
 
         }
+
+
     }
 }
