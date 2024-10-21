@@ -84,7 +84,6 @@ app.UseCors(options =>
     .AllowAnyHeader()
     );
 
-
 app.UseHttpsRedirection();
 
 app.UseAuthentication();

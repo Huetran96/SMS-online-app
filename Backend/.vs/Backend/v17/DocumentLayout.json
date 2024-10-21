@@ -1,30 +1,110 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\",
+  "WorkspaceRootPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\asus\\documents\\asp.net\\project-sem3\\backend\\chat-server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\simpledemofrs\\simpledemofrs.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|solutionrelative:simpledemofrs\\simpledemofrs.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\asus\\documents\\asp.net\\project-sem3\\backend\\chat-server\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\simpledemofrs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|solutionrelative:simpledemofrs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\asus\\documents\\asp.net\\project-sem3\\backend\\chat-server\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\simpledemofrs\\controllers\\friendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|solutionrelative:simpledemofrs\\controllers\\friendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\asus\\documents\\asp.net\\project-sem3\\backend\\chat-server\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\simpledemofrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|solutionrelative:simpledemofrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\asus\\documents\\asp.net\\project-sem3\\backend\\chat-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\asus\\documents\\asp.net\\project-sem3\\backend\\chat-server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\simpledemofrs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|solutionrelative:simpledemofrs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\simpledemofrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|solutionrelative:simpledemofrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\simpledemofrs\\views\\friendship\\friendlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|solutionrelative:simpledemofrs\\views\\friendship\\friendlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\simpledemofrs\\views\\friendship\\addfriend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|solutionrelative:simpledemofrs\\views\\friendship\\addfriend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\simpledemofrs\\dtos\\friendshipresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|solutionrelative:simpledemofrs\\dtos\\friendshipresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\simpledemofrs\\dtos\\friendshipcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72554E04-9336-4328-90C6-F6BFBACC28EB}|simpleDemoFrs\\simpleDemoFrs.csproj|solutionrelative:simpledemofrs\\dtos\\friendshipcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\controllers\\friendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\controllers\\friendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\services\\friendshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\services\\friendshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\services\\ifriendshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\services\\ifriendshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\repositories\\friendshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\repositories\\friendshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\repositories\\ifriendshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\repositories\\ifriendshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\models\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\models\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\dtos\\friendshipresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\dtos\\friendshipresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\dtos\\friendshipcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\dtos\\friendshipcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\chat-server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\chat-server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\da_nhom8\\sms-online-app\\backend\\chat-server\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51700AE9-041F-48E8-9324-4896E865300F}|chat-server\\chat-server.csproj|solutionrelative:chat-server\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,6 +116,14 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -50,37 +138,307 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "simpleDemoFrs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\simpleDemoFrs.csproj",
+              "RelativeDocumentMoniker": "simpleDemoFrs\\simpleDemoFrs.csproj",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\simpleDemoFrs.csproj",
+              "RelativeToolTip": "simpleDemoFrs\\simpleDemoFrs.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T08:50:47.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpdateProfileDto.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\DTOs\\UpdateProfileDto.cs",
-              "RelativeDocumentMoniker": "chat-server\\DTOs\\UpdateProfileDto.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\DTOs\\UpdateProfileDto.cs",
-              "RelativeToolTip": "chat-server\\DTOs\\UpdateProfileDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "simpleDemoFrs\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "simpleDemoFrs\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T08:49:36.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\Program.cs",
+              "RelativeDocumentMoniker": "simpleDemoFrs\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\Program.cs",
+              "RelativeToolTip": "simpleDemoFrs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T11:07:51.969Z",
+              "WhenOpened": "2024-10-21T08:28:35.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FriendshipResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\DTOs\\FriendshipResponseDto.cs",
+              "RelativeDocumentMoniker": "simpleDemoFrs\\DTOs\\FriendshipResponseDto.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\DTOs\\FriendshipResponseDto.cs",
+              "RelativeToolTip": "simpleDemoFrs\\DTOs\\FriendshipResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:26:33.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FriendshipCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\DTOs\\FriendshipCreateDto.cs",
+              "RelativeDocumentMoniker": "simpleDemoFrs\\DTOs\\FriendshipCreateDto.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\DTOs\\FriendshipCreateDto.cs",
+              "RelativeToolTip": "simpleDemoFrs\\DTOs\\FriendshipCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:26:13.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Profile.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\Models\\Profile.cs",
-              "RelativeDocumentMoniker": "chat-server\\Models\\Profile.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\Models\\Profile.cs",
-              "RelativeToolTip": "chat-server\\Models\\Profile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Title": "FriendshipController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\Controllers\\FriendshipController.cs",
+              "RelativeDocumentMoniker": "simpleDemoFrs\\Controllers\\FriendshipController.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\Controllers\\FriendshipController.cs",
+              "RelativeToolTip": "simpleDemoFrs\\Controllers\\FriendshipController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T07:50:08.67Z",
+              "WhenOpened": "2024-10-21T08:24:27.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
+              "Title": "FriendshipController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Controllers\\FriendshipController.cs",
+              "RelativeDocumentMoniker": "chat-server\\Controllers\\FriendshipController.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Controllers\\FriendshipController.cs",
+              "RelativeToolTip": "chat-server\\Controllers\\FriendshipController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:19:57.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Program.cs",
+              "RelativeDocumentMoniker": "chat-server\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Program.cs",
+              "RelativeToolTip": "chat-server\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAswFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:41:14.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\appsettings.json",
+              "RelativeDocumentMoniker": "simpleDemoFrs\\appsettings.json",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\appsettings.json",
+              "RelativeToolTip": "simpleDemoFrs\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T08:40:05.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "simpleDemoFrs\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\Properties\\launchSettings.json",
+              "RelativeToolTip": "simpleDemoFrs\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T08:40:12.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddFriend.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\Views\\Friendship\\AddFriend.cshtml",
+              "RelativeDocumentMoniker": "simpleDemoFrs\\Views\\Friendship\\AddFriend.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\Views\\Friendship\\AddFriend.cshtml",
+              "RelativeToolTip": "simpleDemoFrs\\Views\\Friendship\\AddFriend.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T08:31:39.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FriendList.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\Views\\Friendship\\FriendList.cshtml",
+              "RelativeDocumentMoniker": "simpleDemoFrs\\Views\\Friendship\\FriendList.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\simpleDemoFrs\\Views\\Friendship\\FriendList.cshtml",
+              "RelativeToolTip": "simpleDemoFrs\\Views\\Friendship\\FriendList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T08:32:06.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FriendshipService.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Services\\FriendshipService.cs",
+              "RelativeDocumentMoniker": "chat-server\\Services\\FriendshipService.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Services\\FriendshipService.cs",
+              "RelativeToolTip": "chat-server\\Services\\FriendshipService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:05:04.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFriendshipService.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Services\\IFriendshipService.cs",
+              "RelativeDocumentMoniker": "chat-server\\Services\\IFriendshipService.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Services\\IFriendshipService.cs",
+              "RelativeToolTip": "chat-server\\Services\\IFriendshipService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:02:48.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FriendshipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Repositories\\FriendshipRepository.cs",
+              "RelativeDocumentMoniker": "chat-server\\Repositories\\FriendshipRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Repositories\\FriendshipRepository.cs",
+              "RelativeToolTip": "chat-server\\Repositories\\FriendshipRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwCcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:00:00.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFriendshipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Repositories\\IFriendshipRepository.cs",
+              "RelativeDocumentMoniker": "chat-server\\Repositories\\IFriendshipRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Repositories\\IFriendshipRepository.cs",
+              "RelativeToolTip": "chat-server\\Repositories\\IFriendshipRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:57:13.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FriendshipResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\DTOs\\FriendshipResponseDto.cs",
+              "RelativeDocumentMoniker": "chat-server\\DTOs\\FriendshipResponseDto.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\DTOs\\FriendshipResponseDto.cs",
+              "RelativeToolTip": "chat-server\\DTOs\\FriendshipResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:56:06.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FriendshipCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\DTOs\\FriendshipCreateDto.cs",
+              "RelativeDocumentMoniker": "chat-server\\DTOs\\FriendshipCreateDto.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\DTOs\\FriendshipCreateDto.cs",
+              "RelativeToolTip": "chat-server\\DTOs\\FriendshipCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:55:43.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Friendship.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Models\\Friendship.cs",
+              "RelativeDocumentMoniker": "chat-server\\Models\\Friendship.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Models\\Friendship.cs",
+              "RelativeToolTip": "chat-server\\Models\\Friendship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:38:53.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "chat-server.http",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\chat-server.http",
+              "RelativeDocumentMoniker": "chat-server\\chat-server.http",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\chat-server.http",
+              "RelativeToolTip": "chat-server\\chat-server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-21T07:38:00.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "chat-server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\appsettings.Development.json",
+              "RelativeToolTip": "chat-server\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T07:37:57.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\DTOs\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "chat-server\\DTOs\\UpdateProfileDto.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\DTOs\\UpdateProfileDto.cs",
+              "RelativeToolTip": "chat-server\\DTOs\\UpdateProfileDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:07:51.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Models\\Profile.cs",
+              "RelativeDocumentMoniker": "chat-server\\Models\\Profile.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Models\\Profile.cs",
+              "RelativeToolTip": "chat-server\\Models\\Profile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:50:08.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "chat-server\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Controllers\\UserController.cs",
               "RelativeToolTip": "chat-server\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,11 +447,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 25,
               "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\Models\\Message.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Models\\Message.cs",
               "RelativeDocumentMoniker": "chat-server\\Models\\Message.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\Models\\Message.cs",
               "RelativeToolTip": "chat-server\\Models\\Message.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,27 +459,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "chat-server\\data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\DA_nhom8\\SMS-online-app\\Backend\\chat-server\\data\\AppDbContext.cs",
               "RelativeToolTip": "chat-server\\data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T01:50:25.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\Program.cs",
-              "RelativeDocumentMoniker": "chat-server\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\ASP.NET\\PROJECT-SEM3\\Backend\\chat-server\\Program.cs",
-              "RelativeToolTip": "chat-server\\Program.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEEAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T01:41:14.886Z"
+              "WhenOpened": "2024-10-16T01:50:25.237Z",
+              "EditorCaption": ""
             }
           ]
         }

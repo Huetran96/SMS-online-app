@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Add Friend";
+}
+
+<h2>Add Friend</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+<form method="post">
+    <div class="form-group">
+        <label for="requestedId">Requested User ID</label>
+        <input type="text" class="form-control" id="requestedId" name="requestedId" required>
+    </div>
+    <div class="form-group">
+        <label for="acceptedId">Accepted User ID</label>
+        <input type="text" class="form-control" id="acceptedId" name="acceptedId" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Add Friend</button>
+</form>

@@ -1,0 +1,39 @@
+﻿@using simpleDemoFrs.DTOs
+@model List<FriendshipResponseDto>
+
+@{
+    ViewData["Title"] = "Friend List";
+}
+
+<h2>Friend List</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Requested ID</th>
+                <th>Accepted ID</th>
+                <th>Status</th>
+                <th>Created At</th>
+                <th>Updated At</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var friend in Model)
+            {
+                <tr>
+                    <td>@friend.RequestedId</td>
+                    <td>@friend.AcceptedId</td>
+                    <td>@friend.Status</td>
+                    <td>@friend.CreatedAt</td>
+                    <td>@friend.UpdatedAt</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
